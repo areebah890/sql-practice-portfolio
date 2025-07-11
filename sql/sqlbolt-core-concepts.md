@@ -1,4 +1,4 @@
-## SQLBolt Practice: Lessons 1–6
+## SQLBolt Practice: Lessons 1–5
 Areebah , July 2025
 -- Description: SQL practice covering SELECT, WHERE, AND/OR, ORDER BY, INSERT, and UPDATE. 
 All lessons provided interactive tasks that allowed me to practice and showcase skills I'm learning  
